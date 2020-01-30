@@ -1,0 +1,31 @@
+const ComputerList = [
+    { "id": "49429485312", "owner": "185097697@N05", "secret": "10d83c4b8f", "server": "65535", "farm": 66, "title": "Budget Tech Store", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49427742608", "owner": "164868703@N06", "secret": "e6b4210d9d", "server": "65535", "farm": 66, "title": "TECHNO-MADNESS -- a poem by Bill Kochman", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49427587643", "owner": "183264585@N02", "secret": "bc5eb71290", "server": "65535", "farm": 66, "title": "electromechanical engineering", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49431443372", "owner": "185804691@N02", "secret": "e630d74615", "server": "65535", "farm": 66, "title": "Use These CMS To Build An Ecommerce Website", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49431078271", "owner": "186095195@N02", "secret": "09d444b073", "server": "65535", "farm": 66, "title": "Studio Music Mixer Audio Edited 2020", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49430768421", "owner": "185804691@N02", "secret": "8532253371", "server": "65535", "farm": 66, "title": "Using Bucket Brigades To Keep Your Readers Interested", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429936933", "owner": "186569987@N04", "secret": "cf5b6b4507", "server": "65535", "farm": 66, "title": "Airport Girl", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49430095427", "owner": "145562137@N05", "secret": "b0d1e9f1d4", "server": "65535", "farm": 66, "title": "Which is the Best Hosting type for Uptime Consistency", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429156756", "owner": "185804691@N02", "secret": "d89f060eab", "server": "65535", "farm": 66, "title": "Real Ways to Make Money From Home", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429335277", "owner": "144623383@N08", "secret": "e39373d7d9", "server": "65535", "farm": 66, "title": "IMG_9139_3", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428636808", "owner": "144623383@N08", "secret": "9f9889c729", "server": "65535", "farm": 66, "title": "IMG_9133_3", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429108291", "owner": "144623383@N08", "secret": "a8af291d05", "server": "65535", "farm": 66, "title": "IMG_9138_3", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429331432", "owner": "144623383@N08", "secret": "63e83ca525", "server": "65535", "farm": 66, "title": "IMG_9141_3", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429105991", "owner": "144623383@N08", "secret": "45c895f0f4", "server": "65535", "farm": 66, "title": "IMG_9149_3", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429105451", "owner": "144623383@N08", "secret": "5c60cdbd49", "server": "65535", "farm": 66, "title": "IMG_9151_3", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49429216627", "owner": "140421346@N08", "secret": "54262447a6", "server": "65535", "farm": 66, "title": "Acer Chromebook CB3-131-C3SZ 11.6-Inch Laptop", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428350343", "owner": "186591871@N07", "secret": "a8683d2e5d", "server": "65535", "farm": 66, "title": "Laptop Data Recovery Services in Bhubaneswar", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428807996", "owner": "186591871@N07", "secret": "3a99fb39ef", "server": "65535", "farm": 66, "title": "Laptop service center Bhubaneswar", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428323893", "owner": "186591871@N07", "secret": "6296397f6f", "server": "65535", "farm": 66, "title": "Laptop repair shop in Bhubaneswar", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428947817", "owner": "184010300@N02", "secret": "c5201179e9", "server": "65535", "farm": 66, "title": "Urban Tribe - Smart Shell", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428723656", "owner": "184010300@N02", "secret": "99b7a90c72", "server": "65535", "farm": 66, "title": "Urban Tribe - Smart Shell", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428240778", "owner": "184010300@N02", "secret": "c94382868c", "server": "65535", "farm": 66, "title": "Urban Tribe - Trans4mer v2.0", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428937362", "owner": "184010300@N02", "secret": "bf2d5fa077", "server": "65535", "farm": 66, "title": "Urban Tribe - Trans4mer v2.0", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428240713", "owner": "184010300@N02", "secret": "351da48906", "server": "65535", "farm": 66, "title": "Urban Tribe - Trans4mer v2.0", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49428620921", "owner": "185804691@N02", "secret": "892c713e96", "server": "65535", "farm": 66, "title": "Have Risk-Free Dropshipping Business Through Legit and Reliable SaleHoo Dropshippers", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49427456778", "owner": "185804691@N02", "secret": "32774bcfcb", "server": "65535", "farm": 66, "title": "Copywriting: A Powerful Ministry Expansion Tool", "ispublic": 1, "isfriend": 0, "isfamily": 0 },
+    { "id": "49426389152", "owner": "185804691@N02", "secret": "abc5ae9ccb", "server": "65535", "farm": 66, "title": "Dropshipping on SaleHoo – Wholesale Fashion Accessories to Dropship Worldwide", "ispublic": 1, "isfriend": 0, "isfamily": 0 }
+] ;
+
+export default ComputerList;
